@@ -1,0 +1,4 @@
+# This file automatically requests reviews from specific people or teams.
+
+# By default, require the core maintainers to review everything:
+* @CWhitlockOfficial
